@@ -21,13 +21,13 @@ module.exports = {
     },
     goerli_infura: {
       provider: function() {
-        return new HDWalletProvider(process.env.MNEMONIC, "INSERT web3 PROVIDER ADDRESS HERE", AccountIndex)
+        return new HDWalletProvider(process.env.MNEMONIC, "", AccountIndex)
       },
       network_id: 5
     },
     ropsten_infura: {
       provider: function() {
-        return new HDWalletProvider(process.env.MNEMONIC, "INSERT web3 PROVIDER ADDRESS HERE", AccountIndex)
+        return new HDWalletProvider(process.env.MNEMONIC, "", AccountIndex)
       },
       network_id: 3
     }

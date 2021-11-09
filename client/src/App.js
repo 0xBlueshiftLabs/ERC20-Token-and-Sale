@@ -84,7 +84,7 @@ class App extends Component {
     return (
       <div className="App">
         <h1>Azure Token Sale</h1>
-        <p>Get your AZRE tokens today!</p>
+        <p>Get your AZE tokens today!</p>
         <h2>KYC Whitelisting</h2>
         Address to allow: <input type="text" name="kycAddress" value={this.state.kycAddress} onChange={this.handleInputChange} />
         <button type="button" onClick={this.handleKycWhiteListing}>Add to Whitelist</button>
