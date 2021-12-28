@@ -108,7 +108,7 @@ Twitter - [@TraderTDF](https://twitter.com/TraderTDF)
 
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
-Project Link: [https://github.com/Elisik/ERC20-Token-and-Sale](https://github.com/Elisik/ERC20-Token-and-Sale)
+Project Link: [https://github.com/0xTDF/ERC20-Token-and-Sale](https://github.com/0xTDF/ERC20-Token-and-Sale)
 
 
 
