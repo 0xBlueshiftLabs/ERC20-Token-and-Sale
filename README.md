@@ -108,7 +108,7 @@ Twitter - [@0xTDF](https://twitter.com/0xTDF)
 
 LinkedIn - [https://www.linkedin.com/in/RAMWatson/](https://www.linkedin.com/in/RAMWatson/)
 
-Project Link: [https://github.com/0xTDF/ERC20-Token-and-Sale](https://github.com/0xTDF/ERC20-Token-and-Sale)
+Project Link: [https://github.com/0xBlueshiftLabs/ERC20-Token-and-Sale](https://github.com/0xBlueshiftLabs/ERC20-Token-and-Sale)
 
 
 
